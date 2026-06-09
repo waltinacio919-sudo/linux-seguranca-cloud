@@ -1,0 +1,6 @@
+1. uname -a: Identifica a versão do Kernel Linux e a arquitetura do sistema.
+2. cat /etc/os-release: Mostra os detalhes da distribuição Linux instalada (Ubuntu 24.04).
+3. whoami: Exibe o nome do utilizador que está a operar no terminal (root).
+4. pwd: Apresenta o caminho completo do diretório atual onde nos encontramos.
+5. df -h: Verifica o estado do armazenamento e espaço em disco de forma legível.
+6. free -h: Consulta a quantidade de memória RAM livre e em uso no sistema.
