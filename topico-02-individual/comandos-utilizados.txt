@@ -1,0 +1,13 @@
+=== TAREFA A2 - IDENTIFICAÇÃO ===
+whoami:
+root
+
+id:
+uid=0(root) gid=0(root) groups=0(root)
+
+groups:
+root
+
+=== TAREFA A4 - OUTPUT FINAL (ls -l) ===
+-rw-r--r-- 1 root root 17 Jun  9 14:27 topico-02-individual/publico.txt
+-rw-r----- 1 root root 17 Jun  9 14:27 topico-02-individual/restrito.txt
