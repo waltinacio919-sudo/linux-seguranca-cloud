@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Script executado com sucesso por Walter!"
+echo "Script executado com sucesso!"
